@@ -1,2 +1,2 @@
 # Google-Maps1
-My google maps
+I made it zoom in at when you go to different countries so you can only see that country(besides russia)
